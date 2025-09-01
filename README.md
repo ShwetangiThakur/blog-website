@@ -8,9 +8,6 @@ This is a frontend application for a simple blog, allowing users to perform CRUD
 **Frontend:** React, Redux, Material UI
 
 **Backend:** Node, Express, MongoDB (Mongoose)
-
-**DEMO:** [https://mernstack-blog-application.netlify.app/](https://mernstack-blog-application.netlify.app/)
-
 ---
 
 ### Functionality
